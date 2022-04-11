@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d555eaa4.css",
+    "main.js": "/static/js/main.6857f48a.js",
+    "static/media/Metropolis-ExtraBold.otf": "/static/media/Metropolis-ExtraBold.f179dd5fc7c0864a964b.otf",
+    "static/media/Metropolis-Bold.otf": "/static/media/Metropolis-Bold.c5e04fafcff6fc79cd76.otf",
+    "static/media/Metropolis-Regular.otf": "/static/media/Metropolis-Regular.67a1988d7b65b0aaa16d.otf",
+    "index.html": "/index.html",
+    "main.d555eaa4.css.map": "/static/css/main.d555eaa4.css.map",
+    "main.6857f48a.js.map": "/static/js/main.6857f48a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d555eaa4.css",
+    "static/js/main.6857f48a.js"
+  ]
+}
